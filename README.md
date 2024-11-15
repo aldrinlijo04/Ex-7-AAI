@@ -1,5 +1,6 @@
 # EX-07 Implementation of Text Summarization
-### Aim: 
+## DATE:
+### Aim: 13/10/2024
 To perform automatic text summarization using Natural Language Processing &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE :14-10-2024**<br>
 (NLP) techniques.
 ### Description:
